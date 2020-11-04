@@ -1,0 +1,5 @@
+document.body.firstElementChild
+// or
+document.bodychildren[0]
+//or
+document.body.childNodes

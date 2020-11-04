@@ -1,3 +1,3 @@
 let ourPlanetJame= Earth
 
-let currentUserName= "John"
+let currentUserName= "Nikki"
